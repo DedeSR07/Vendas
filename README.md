@@ -11,8 +11,8 @@ Projeto de analise de vendas, visando destrinchar os números gerais, como:
 - Gráfico de barras
 - Matriz
 
-![Relatório](imagens/relatorio.png)
-![Soma de Vendas](imagens/SomaVendas.png)
+![Relatório](Imagens/relatorio.png)
+![Soma de Vendas](Imagens/SomaVendas.png)
 
 ---
 
