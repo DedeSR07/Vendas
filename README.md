@@ -11,9 +11,5 @@ Projeto de analise de vendas, visando destrinchar os números gerais, como:
 - Gráfico de barras
 - Matriz
 
-🖼️![Relatório](Imagens/relatorio.png)
-🖼️![Soma de Vendas](Imagens/SomaVendas.png)
-
----
 
 - 📊 Desenvolvido no Power BI Desktop  
