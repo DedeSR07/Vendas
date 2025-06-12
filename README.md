@@ -11,5 +11,5 @@ Projeto de analise de vendas, visando destrinchar os números gerais, como:
 - Gráfico de barras
 - Matriz
 
-
+---
 - 📊 Desenvolvido no Power BI Desktop  
