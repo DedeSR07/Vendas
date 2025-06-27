@@ -19,4 +19,16 @@ Projeto de analise de vendas, visando destrinchar os números gerais, como:
 - ➕ [Soma de Vendas](Imagens/SomaVendas.png)
 
 ---
-- 📊 Desenvolvido no Power BI Desktop  
+- 📊 Desenvolvido no Power BI Desktop
+---
+
+## 👨‍💻 Autor
+
+**David Souza Ribeiro**  
+
+---
+
+## 📝 Observações
+
+Este projeto faz parte de um portfólio pessoal com foco em análise de dados com Excel e Power BI.  
+Os dados são fictícios e foram gerados apenas para fins de estudo.
